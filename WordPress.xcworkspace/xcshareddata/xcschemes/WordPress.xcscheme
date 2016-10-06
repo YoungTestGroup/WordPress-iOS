@@ -17,7 +17,7 @@
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "WordPress.app"
                BlueprintName = "WordPress"
-               ReferencedContainer = "container:WordPress.xcodeproj">
+               ReferencedContainer = "container:WordPress/WordPress.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "E16AB92914D978240047A2E5"
                BuildableName = "WordPressTest.xctest"
                BlueprintName = "WordPressTest"
-               ReferencedContainer = "container:WordPress.xcodeproj">
+               ReferencedContainer = "container:WordPress/WordPress.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -45,7 +45,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "WordPress.app"
             BlueprintName = "WordPress"
-            ReferencedContainer = "container:WordPress.xcodeproj">
+            ReferencedContainer = "container:WordPress/WordPress.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -68,7 +68,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "WordPress.app"
             BlueprintName = "WordPress"
-            ReferencedContainer = "container:WordPress.xcodeproj">
+            ReferencedContainer = "container:WordPress/WordPress.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -87,7 +87,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "WordPress.app"
             BlueprintName = "WordPress"
-            ReferencedContainer = "container:WordPress.xcodeproj">
+            ReferencedContainer = "container:WordPress/WordPress.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
